@@ -1,0 +1,2 @@
+Proyecto de implementación de IA en juego Pong
+Las paletas son controladas automáticamente principalmente en la función update_pong en pong.c. Además se creó una variable AI_turn en la estructura pong (ver pong.h) para identificar el turno de cada jugador
